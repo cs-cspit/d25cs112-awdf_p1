@@ -1,0 +1,35 @@
+.navbar{
+
+    background:#333;
+    position:sticky;
+    top:0;
+
+}
+
+.navbar ul{
+
+    display:flex;
+    justify-content:center;
+    list-style:none;
+
+}
+
+.navbar li{
+
+    padding:18px;
+
+}
+
+.navbar a{
+
+    text-decoration:none;
+    color:white;
+    font-size:18px;
+
+}
+
+.navbar a:hover{
+
+    color:yellow;
+
+}

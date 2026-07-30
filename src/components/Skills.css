@@ -1,0 +1,34 @@
+.skills{
+
+    min-height:600px;
+    padding:40px;
+    text-align:center;
+    scroll-margin-top: 80px;
+
+}
+
+.skills h2{
+
+    color:#4CAF50;
+    margin-bottom:30px;
+
+}
+
+.card{
+
+    width:220px;
+    display:inline-block;
+    margin:20px;
+    padding:40px;
+    background:white;
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+    transition:.3s;
+
+}
+
+.card:hover{
+
+    transform:scale(1.05);
+
+}
